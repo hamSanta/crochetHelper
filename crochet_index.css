@@ -3,6 +3,7 @@ body {
     font-family: "Poppins", sans-serif;
   }
   
+  
   .container {
     background-color: white;
     border-radius: 10px;
@@ -10,8 +11,10 @@ body {
     width: 20em;
     height: 30em;
     position: absolute;
+    display: inline;
   }
-  
+
+
   .app-title {
     text-align: center;
     position: relative;
@@ -20,8 +23,8 @@ body {
     font-weight: bold;
     line-height: 0em;
   }
-  
-  .errors {
+
+  .error {
     position: relative;
     background-color: #FF7F7F;
     line-height: 2em;
@@ -39,3 +42,4 @@ body {
     position: relative;
     width: 100%;
   }
+
