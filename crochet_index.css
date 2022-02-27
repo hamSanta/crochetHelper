@@ -1,0 +1,41 @@
+body {
+    background-color: #4A81B8;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  .container {
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    width: 20em;
+    height: 30em;
+    position: absolute;
+  }
+  
+  .app-title {
+    text-align: center;
+    position: relative;
+    width: 100%;
+    font-size: 2.5em;
+    font-weight: bold;
+    line-height: 0em;
+  }
+  
+  .errors {
+    position: relative;
+    background-color: #FF7F7F;
+    line-height: 2em;
+    width: 100%;
+  }
+  
+  .stitches {
+    position: relative;
+    width: 100%;
+    font-size: 900%;
+    line-height: 0em;
+  }
+  
+  .stitchesLeft {
+    position: relative;
+    width: 100%;
+  }
